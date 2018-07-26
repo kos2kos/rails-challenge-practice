@@ -44,19 +44,19 @@ The product team has deemed the following features as crucial:
 
 #### Building:
 
-* Users should be able to update a building's details
 * Users should be able to see a list of all buildings, as well as a list of all available floors for each building
 * Users should be able to see a single building's details
 	- On this page, a user should be able to see all of the companies that have offices in the building
 	- On this page, a user should be able to see how much total rent that building is making based on all the companies that have rented offices in that building
+* Users should be able to update a building's details
 
 
 #### Company:
 
 * Users should be able to create a new company and choose any number of buildings to open an office in, as well as the floors that the company would like to purchase
-	- On this page, a user should be able to see a list of all of its offices, as well as the building in which the office is located
 	- On this page, a user should be able to add an employee to the company
-	- On this page, a user should be able to see a list of all employees 
+- Users should be able to see a list of all of its offices, as well as the building in which the office is located in.
+	- On this page, a user should be able to see a list of all employees
 	- On this page, a user should be able to remove an employee from the company
 	- On this page, a user should be able to see how much total rent it is paying
 
